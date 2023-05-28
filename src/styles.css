@@ -5,4 +5,9 @@
   box-sizing: border-box;
   background-color:#111111 ;
   color: aliceblue;
+  list-style: none;
+}
+
+a{
+  text-decoration: none;
 }

@@ -1,30 +1,29 @@
 .conatainer_big_card{
-  width: 400px;
+  width: 600px;
   height: 600px;
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: flex-start;
-  border: solid 1px white;
 }
 
 .big-card_photo > img{
   margin-top: 20px;
-  min-width:300px;
-  width: 300px;
-  height:200px;
+  min-width:400px;
+  width: 500px;
+  height:300px;
 
 }
 
-.big-card_title> h1 {
-  width: 300px;
+.big-card_title > a , h1 {
+  width: 500px;
   font-size: 21px;
   font-weight: 400;
   padding: 10px 0 ;
 }
 
 .big-card_description > p{
-  width: 300px;
+  width: 500px;
   font-size: 14px;
   font-weight: 400;
   letter-spacing: 1px;

@@ -1,0 +1,11 @@
+.container_articles{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  gap: 10px;
+}
+
+header{
+  display: flex;
+  justify-content: center;
+}

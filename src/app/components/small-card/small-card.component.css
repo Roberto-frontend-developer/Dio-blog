@@ -1,0 +1,32 @@
+.container_samll-card{
+  width: 700px;
+}
+
+.container_small_card_content{
+  display: flex;
+  flex-direction: row;
+}
+
+.small_card-photo > img {
+  width: 300px;
+  height: 200px;
+  min-width: 100px;
+  padding: 20px;
+}
+
+.small_card-title > p{
+  padding: 20px;
+  margin: 10px 0;
+  letter-spacing: 1px;
+  line-height: 1;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.small_linha > hr{
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, transparent, #CCC, transparent);
+}
+
