@@ -1,0 +1,14 @@
+.menu_title_container{
+  color: aliceblue;
+}
+.menu_title_container > h1 {
+  margin: 15px 0;
+  font-size: 100px;
+  font-weight: bold;
+  display: flex;
+  justify-content: center;
+}
+
+.menu_title_container > hr {
+  margin-top: 10px;
+}
